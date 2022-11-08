@@ -1,7 +1,6 @@
 build
-<<<<<<< HEAD
 *_venv
 __pycache__
-=======
 .DS_Store
->>>>>>> a2d2f3f (modifiy .gitignore)
+
+
